@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **jdawnforest/jdawnforest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# dawnforest.net
+This repository contains the building blocks for dawnforest.net, the personal website and digital home of J. Dawnforest.
+
+## Changelog
+None yet!
