@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # dawnforest.net
-This repository contains the building blocks for dawnforest.net, the personal website and digital home of J. Dawnforest.
+This repository contains the building blocks for https://dawnforest.net, the personal website and digital home of J. Dawnforest.
 
 ## Changelog
 None yet!
