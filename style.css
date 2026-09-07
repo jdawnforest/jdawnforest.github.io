@@ -16,7 +16,9 @@ a {
 a:hover {
     color: #f09da9;
 }
-.container {
-    width: 75%;       /* Must have a defined width */
-    margin: 10 auto;   /* 0 for top/bottom, auto calculates equal left/right space */
+div {
+ width: auto;
+ border: 0px;
+ padding: 0px;
+ margin: 10px 100px;
 }
